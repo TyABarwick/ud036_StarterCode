@@ -25,12 +25,7 @@ Fresh Tomatoes Movie Trailers website used open source projects to be created.
 - Starter code was from udacity/ud036_StarterCode.
 - fresh_tomatoes.py was not altered
 
-  
-
-
-
-
 License
 ----
 
-MIT
+[MIT] (LICENSE.txt)
