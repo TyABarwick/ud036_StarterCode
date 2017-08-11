@@ -4,10 +4,9 @@ Fresh Tomatoes Movie Trailers is a website to share favorite movies.  It was don
 
 ## Information
 
-Fresh Tomatoes Movie Trailers website used open source projects to be created
+Fresh Tomatoes Movie Trailers website used open source projects to be created.
 
 - Created on Python 2.7.13
-- Starter code was from udacity/ud036_StarterCode
 
 ## Installation
 
@@ -21,6 +20,14 @@ Fresh Tomatoes Movie Trailers website used open source projects to be created
 ## Functionality
 - Three movie posters will be shown on the Fresh Tomatoes Movie Trailers web page
 - By clicking a movie poster a trailer for the movie is launched
+
+## Attributions
+- Starter code was from udacity/ud036_StarterCode.
+- fresh_tomatoes.py was not altered
+
+  
+
+
 
 
 License
