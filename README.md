@@ -28,4 +28,4 @@ Fresh Tomatoes Movie Trailers website used open source projects to be created.
 License
 ----
 
-[MIT] (LICENSE.txt)
+MIT
